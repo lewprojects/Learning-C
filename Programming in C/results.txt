@@ -1,0 +1,6 @@
+Enter a number between 1 and 100: 
+
+Your number is 7.00
+Half of it is 3.50
+Square it to get 49.00
+Cube it to get 343.00
